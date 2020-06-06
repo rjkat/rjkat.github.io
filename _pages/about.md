@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-I am a software engineer and PhD student with a passion for audio. My current research interest is in speech recognition in the context of distributed devices. 
+I am a software engineer and PhD student with a passion for audio. My research focus is speech recognition in the context of distributed devices. 
