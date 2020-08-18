@@ -14,7 +14,7 @@ Education
 * *BSc* in Computer Science with Distinction, UNSW, 2013
 * *BE(Hons)* in Electrical Engineering, UNSW, 2013
 * *MIT* in Artificial Intelligence and Data Science & Engineering, UNSW, 2020
-* *PhD* in Electrical Engineering, UNSW, 2023 (expected)
+* *PhD* in Electrical Engineering, UNSW, 2025 (expected)
 
 Work
 ======
