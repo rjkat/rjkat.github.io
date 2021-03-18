@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-AU"
-title                    : "rjk.at"
+title                    : "cv.rjk.at"
 title_separator          : "-"
 name                     : &name "Rowan Katekar"
 description              : &description "Engineer and PhD Student"
-url                      : https://rjk.at # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cv.rjk.at # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rjkat/rjkat.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
